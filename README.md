@@ -33,7 +33,7 @@ Make sure Python and Streamlit are installed. Then run:
 
 ```bash
 streamlit run main.py
-
+```
 ---
 
 ## 👨‍💻 Contributor
